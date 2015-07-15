@@ -1,4 +1,4 @@
-#Distancia entre dois Objetos (Geometria analitica)
+# Distancia entre dois Objetos (Geometria analitica)
 # Victor Hugo Viana @2015
 from math import sqrt
 
@@ -28,5 +28,3 @@ while(running):
     if repeat_loop=="y":continue
     else: running=False
 
-
-                    
